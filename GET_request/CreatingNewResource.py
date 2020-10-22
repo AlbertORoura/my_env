@@ -2,7 +2,7 @@ import requests
 import json
 import jsonpath
 
-# VALIDACIÓN DE SCHEMA = https://python-jsonschema.readthedocs.io/en/stable/
+# SCHEMA VALIDATION = https://python-jsonschema.readthedocs.io/en/stable/
 
 # API URL
 url = "https://reqres.in/api/users"
